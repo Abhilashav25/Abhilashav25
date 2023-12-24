@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 I am currently working on open-source projects related to web development<br>I'm looking to collaborate on innovative tools that make technology accessible to non-tech users<br>I'm looking for help with advanced data  analysis techniques in Python<br>I'm currently learning Java script, Type Script and Node js<br>
-
+>.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/very___precious) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhilasha Gowda) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Abhilasha Gowda) 
