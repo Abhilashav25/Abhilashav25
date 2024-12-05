@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhilashav25
+- 👋 Hi, I’m @Abjilashav25
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning both Frontend and Backend
 - 📫 How to reach me Email: abhilashavgowda25blr@gmail.com
