@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abhilashav25
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web
+- Development
 - 🌱 I’m currently learning both Frontend and Backend
 - 📫 How to reach me Email: abhilashavgowda25blr@gmail.com
 - Linked in: Abhilasha Gowda (https://www.linkedin.com/in/abhilasha-v-gowda-41110a258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
